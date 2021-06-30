@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Here to just editing the branch
+Here to just edit the branch
